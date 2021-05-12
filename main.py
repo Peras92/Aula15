@@ -22,8 +22,8 @@ def fakebook():
 def boogle():
     return render_template("boogle.html")
 
-@app.route("/portefolio/boogle/login")
-def login_boogle():
+@app.route("/portefolio/boogle/login/")
+def login():
     return render_template("Login.html")
 
 @app.route("/portefolio/cabeleireiro/")
