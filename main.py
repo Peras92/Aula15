@@ -30,6 +30,5 @@ def login():
 def cabeleireiro():
     return render_template("cabeleireiro.html")
 
-
 if __name__ == '__main__':
-    app.run(use_reloader=True)
+    app.run()
