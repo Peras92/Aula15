@@ -3,7 +3,10 @@ body {
 }
 
 h1 {
-    color: #edf5e1;
+    color: #edf5e1;;
     font-weight: bold;
 }
 
+h2 {
+    color: #edf5e1;;
+}
